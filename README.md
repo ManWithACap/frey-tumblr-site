@@ -1,2 +1,3 @@
 # frey-tumblr-site
 Lorem ipsum...
+Hi, Frey!~ o(〃＾▽＾〃)o
